@@ -7,7 +7,6 @@ sector in the United States (OSHA Severe Injury Reports, 2015-2024).
 
 | File | Content |
 |---|---|
-| `analysis_code.txt` | Complete R code, saved as plain text |
 | `analysis_data.xlsx` | Analysis data: reports and employment by sector and year, sector totals with the Michigan reporting counts, and the jurisdiction table |
 | `fig1_rank_intervals.png` | Rank intervals of hospitalization rates |
 | `fig2_rank_bounds.png` | Rank bounds without reporting data |
